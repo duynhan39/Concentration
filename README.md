@@ -5,6 +5,9 @@ As its name, a version of Concentration game
 ## Getting Started
 
 Clone the project to where you want to have it on your local machine and run it with Xcode
+<p align="center">
+  <img src="./Concentration/concentration.svg" width="500">
+</p>
 
 ## Rules
 
@@ -14,13 +17,19 @@ Clone the project to where you want to have it on your local machine and run it 
 ## Quick Look
 
 ### Opening
-<img src="./ss/opening.png" width="350">
+<p align="center">
+  <img src="./ss/opening.png" width="350">
+</p>
 
 ### Different game themes
 
+<p align="center">
+  
+  <img src="./ss/redblack.png" width="350">    <img src="./ss/yellow.png" width="350">
+  <img src="./ss/green.png" width="350">       <img src="./ss/ocean.png" width="350">
 
-<img src="./ss/redblack.png" width="350">    <img src="./ss/yellow.png" width="350">
-<img src="./ss/green.png" width="350">       <img src="./ss/ocean.png" width="350">
+</p>
+
 #### And many other themes
 
 
